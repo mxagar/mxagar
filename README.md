@@ -2,7 +2,7 @@ Hi 👋, I'm @mxagar (Mikel Sagardia)!
 
 I'm an engineer located in San Sebastián (Basque Country / Spain).
 
-I have a PhD in the intersection between robotics, virtual simulations and human-robot interaction. However, in the past years my interest 👀 has shifted to
+I have a PhD in the intersection between robotics, virtual simulations and human-machine interfaces. However, in the past years my interest 👀 has shifted to
 
 - **machine vision**,
 - **machine learning**,
