@@ -1,4 +1,4 @@
-Hi 👋, I'm @mxagar (Mikel Sagardia) 
+Hi 👋, I'm @mxagar (Mikel Sagardia)!
 
 I'm an engineer located in San Sebastián (Basque Country / Spain).
 
@@ -18,7 +18,7 @@ You can reach out to me or get more information about me via
 - my [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/)
 - my [website](https://github.com/mxagar), which features some of my past works,
 - my [blog](https://github.com/mxagar),
-- and my [Google Scholar profile](https://github.com/mxagar).
+- and my [Google Scholar profile](https://scholar.google.com/citations?user=DAP30jYAAAAJ).
 
 See you around!
 Mikel
