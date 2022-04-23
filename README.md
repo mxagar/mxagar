@@ -15,7 +15,7 @@ Previously, I have lived in Munich (Germany) for over 14 years -- bitte gleich a
 You can reach out to me or get more information about me via 
 
 - my email: sagardia.mikel@gmail.com 📫
-- my [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/)
+- my [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/),
 - my [website](https://github.com/mxagar), which features some of my past works,
 - my [blog](https://github.com/mxagar),
 - and my [Google Scholar profile](https://scholar.google.com/citations?user=DAP30jYAAAAJ).
