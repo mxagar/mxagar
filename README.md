@@ -1,24 +1,17 @@
-Hi 👋, I'm @mxagar (Mikel Sagardia)!
+:wave: Hi, I'm Mikel Sagardia!
 
-I'm an engineer located in [San Sebastián](https://en.wikipedia.org/wiki/San_Sebastián) (Basque Country / Spain).
+I'm a data scientist and engineer with a passion for all things related to **machine learning and AI**. I have a [PhD](https://elib.dlr.de/132879/) in the intersection between robotics, virtual simulations and human-machine interfaces. However, since 2017 my interests have progressively shifted to applications that combine **computer vision** and **natural language processing**.
 
-I have a [PhD](https://elib.dlr.de/132879/) in the intersection between robotics, virtual simulations and human-machine interfaces. However, in the past 4 years my interest has shifted to
+When our second kid was born in 2020, we moved back to [San Sebastian](https://en.wikipedia.org/wiki/San_Sebastián) after 14 years in Munich. There, I work remotely for [Deutsche Telekom](https://www.telekom.com). Previously, I've been at the [German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), [MVTec](https://www.mvtec.com) and [Vicomtech](https://www.vicomtech.org/en).
 
-- **machine vision**,
-- **machine learning**,
-- and **data science**.
+If you'd like to learn more about me or get in touch, follow these links:
 
-Currently, I'm on a leave of absence from my role as senior researcher at [Vicomtech](https://www.vicomtech.org/en). During this sabbatical I'll be collaborating with a limited number of teams as an external consultant. At the same time, I'll be building some business ideas :seedling:. My Github profile is a nice window to see what I'm [learning](https://github.com/mxagar/course_compilation) and some of the **[projects I'm working on](https://github.com/mxagar/project_compilation) :space_invader:**.
-
-Previously, I've lived in Munich (Germany) for over 14 years &mdash; bitte gleich auf Deutsch :de: mit mir! There, I worked at the [German Aerospace Center](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017) (where the game-changer KUKA cobot was originally conceived) and [MVTec](https://www.mvtec.com) (where the great Halcon machine vision toolkit is crafted).
-
-You can reach out to me or get more information about me via 
-
-- my email: sagardia.mikel@gmail.com :mailbox:
-- my [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/),
-- my [website/blog](https://mikelsagardia.io),
-- my [Youtube channel](https://www.youtube.com/c/MikelSagardia),
-- and my [Google Scholar profile](https://scholar.google.com/citations?user=DAP30jYAAAAJ).
+- [My website](https://mikelsagardia.io)
+- [Some of my public projects](https://github.com/mxagar/project_compilation)
+- [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/)
+- [Google Scholar profile](https://scholar.google.com/citations?user=DAP30jYAAAAJ)
+- [Youtube channel](https://www.youtube.com/c/MikelSagardia)
+- Email: [{{ site.email }}](mailto:{{ site.email }})
 
 See you around!
 
