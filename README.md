@@ -11,7 +11,7 @@ If you'd like to learn more about me or get in touch, follow these links:
 - [LinkedIn profile](https://www.linkedin.com/in/mikel-sagardia/)
 - [Google Scholar profile](https://scholar.google.com/citations?user=DAP30jYAAAAJ)
 - [Youtube channel](https://www.youtube.com/c/MikelSagardia)
-- Email: [{{ site.email }}](mailto:{{ site.email }})
+- My email: sagardia.mikel@gmail.com :mailbox:
 
 See you around!
 
