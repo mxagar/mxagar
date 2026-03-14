@@ -1,8 +1,8 @@
 :wave: Hi, I'm Mikel Sagardia!
 
-I'm a **data scientist and machine learning engineer** with passion for all things related to **AI**. I have a [PhD](https://elib.dlr.de/132879/) in the intersection between robotics, virtual simulations and human-machine interfaces. However, since 2017 my interests have progressively shifted to applications that combine **computer vision** and **natural language processing**.
+I'm a **data scientist and machine learning engineer** with a passion for all things related to **AI**. I have a [PhD](https://elib.dlr.de/132879/) at the intersection of robotics, virtual simulations, and human-machine interfaces. However, since 2017, my interests have progressively shifted toward applications that combine **computer vision** and **natural language processing**.
 
-When our second kid was born in 2020, we moved back to [San Sebastian](https://en.wikipedia.org/wiki/San_Sebastián) after 14 years in Munich. I currently work remotely for [Deutsche Telekom](https://www.telekom.com). Previously, I worked at the [Institute of Robotics @ German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), [MVTec](https://www.mvtec.com), and [Vicomtech](https://www.vicomtech.org/en).
+When our second kid was born in 2020, we moved back to [San Sebastián](https://en.wikipedia.org/wiki/San_Sebastián) after 14 years in Munich. I currently work remotely for [Deutsche Telekom](https://www.telekom.com). Previously, I worked at the [Institute of Robotics @ German Aerospace Center (DLR)](https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-8017), [MVTec](https://www.mvtec.com), and [Vicomtech](https://www.vicomtech.org/en).
 
 If you'd like to learn more about me or get in touch, follow these links:
 
